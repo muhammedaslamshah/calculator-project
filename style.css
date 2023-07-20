@@ -37,8 +37,7 @@ h1 {
 }
 .operator {
   background: wheat;
-  color: aliceblue;
-  text-shadow: 2px 2px #000000;
+  color: black;
   box-shadow: 3px 3px #888888;
   border-right: #acacac;
 }
